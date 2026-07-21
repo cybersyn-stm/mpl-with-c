@@ -1,0 +1,16 @@
+# 基础风格，可选: LLVM, Google, Chromium, Mozilla, WebKit 等[reference:7]
+BasedOnStyle: LLVM
+
+# 缩进宽度（空格数）
+IndentWidth: 4
+
+# Tab键宽度
+TabWidth: 4
+
+# 是否使用Tab，Never表示只用空格
+UseTab: Never
+
+# 列数限制，0表示无限制
+ColumnLimit: 0
+
+# ... 其他海量风格选项，可查阅官方文档

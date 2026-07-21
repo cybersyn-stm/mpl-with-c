@@ -1,0 +1,9 @@
+*.o
+*.out
+main
+mpl
+model.bin
+model.dat
+*.bmp
+*.gif
+output/
